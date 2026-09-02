@@ -1,4 +1,5 @@
-https://chatgpt.com/backend-api/estuary/content?id=file_0000000049848211a1283fb862967933&ts=496763&p=fs&cid=1&sig=35a6db662ab68dad0e734d6c044d7344b4aff12dab728e92bcff4071520f1fdb&v=0
+<img width="1672" height="941" alt="ChatGPT Image Sep 2, 2026, 05_15_46 PM" src="https://github.com/user-attachments/assets/b990e01c-611f-4867-acd7-a47e07ffdbec" />
+
 # 🔄 SQL Data Transformer
 
 ## 📌 Project Overview
